@@ -1,0 +1,24 @@
+[
+	{
+		"inicio": {
+			"name": "Inicio",
+			"link": "#inicio"
+		},
+		"acerca": {
+			"name": "Acerca",
+			"link": "#acerca"
+		},
+		"menu": {
+			"name": "Menú",
+			"link": "#menu"
+        },
+		"galeria": {
+			"name": "Galeria",
+			"link": "#galeria"
+        },
+		"contacto": {
+			"name": "Contacto",
+			"link": "#contacto"
+        }
+	}
+]
