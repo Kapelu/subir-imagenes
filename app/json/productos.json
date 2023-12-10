@@ -1,0 +1,213 @@
+{
+	"menu": [
+		{
+			"comida": [
+				{
+					"sopa": [
+						{
+							"id": 1,
+							"nombre": "Sopa de pasta",
+							"image": "",
+							"precio": 2500
+						},
+						{
+							"id": 2,
+							"nombre": "Sopa de plátano",
+							"image": "",
+							"precio": 2500
+						},
+						{
+							"id": 3,
+							"nombre": "Sopa de ajiaco",
+							"image": "",
+							"precio": 2500
+						},
+						{
+							"id": 4,
+							"nombre": "Sopa de mute",
+							"image": "",
+							"precio": 2500
+						},
+						{
+							"id": 5,
+							"nombre": "peto dulce",
+							"image": "",
+							"precio": 2500
+						}
+					]
+				},
+				{
+					"plato": [
+						{
+							"proteina": [
+								{
+									"id": 1,
+									"nombre": "Pechuga a la plancha",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 2,
+									"nombre": "Carne asada",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 3,
+									"nombre": "Lengua en salsa",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 4,
+									"nombre": "Higado encebollado",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 5,
+									"nombre": "Callo sudado",
+									"image": "",
+									"precio": 2500
+								}
+							],
+							"principio": [
+								{
+									"id": 1,
+									"nombre": "Frijol",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 52,
+									"nombre": "Lenteja",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 3,
+									"nombre": "Garbanzo",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 4,
+									"nombre": "Arveja verde",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 5,
+									"nombre": "Arveja amarilla",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 6,
+									"nombre": "Calabacin",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 7,
+									"nombre": "Zukini",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 8,
+									"nombre": "Callo sudado",
+									"image": "",
+									"precio": 2500
+								}
+							],
+							"arroz": [
+								{
+									"id": 1,
+									"nombre": "Arroz blanco",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 2,
+									"nombre": "Arroz amarillo",
+									"image": "",
+									"precio": 2500
+								}
+							],
+							"ensalada": [
+								{
+									"id": 1,
+									"nombre": "Ensalada mixta",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 2,
+									"nombre": "Ensalada dulce",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 3,
+									"nombre": "Ensalada fría",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 4,
+									"nombre": "Ensalada césar",
+									"image": "",
+									"precio": 2500
+								}
+							],
+							"complemento": [
+                                {
+									"id": 1,
+									"nombre": "Papa salada",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 2,
+									"nombre": "platano sensación",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 3,
+									"nombre": "Tajadas de platano",
+									"image": "",
+									"precio": 2500
+								},
+								{
+									"id": 4,
+									"nombre": "Yuca",
+									"image": "",
+									"precio": 2500
+								}
+                            ]
+						}
+					]
+				},
+				{"adicionales": []}
+			]
+		},
+		{
+			"bebida": [
+				{
+					"aguas": [],
+					"cerveza": [],
+					"vino": [
+						{
+							"tinto": [],
+							"blanco": [],
+							"espumante": []
+						}
+					],
+					"cocktel": []
+				}
+			]
+		}
+	]
+}
