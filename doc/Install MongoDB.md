@@ -1,6 +1,4 @@
-> [.!NOTE.]
-> Guía de Instalación de la base de datos mongodb y compass
-
+<h1 align="center" style='margin: 0; font-size: 2rem; text-align: center; color: #7776d6;'>Guía de Instalación de la base de datos mongodb y compass</h1>
 
 * IMPORTAMOS LA CLAVE PUBLICA PARA MONGODB
     ```
