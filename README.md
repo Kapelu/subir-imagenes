@@ -97,9 +97,12 @@ Si deseas ejecutar este proyecto en tu propio entorno de desarrollo, sigue estos
     npm run dev
     ```
 
-<div align="center" style='margin: 0 0 2rem; font-size: 1.5rem;'>
-<p >La aplicación estará disponible en </p >
+<br />
+<br />
+<br />
 
-[http://localhost:3000](http://localhost:3000)
+> [!NOTE]
+> La aplicación estará disponible en [http://localhost:3000](http://localhost:3000)
 
-</div>
+
+
