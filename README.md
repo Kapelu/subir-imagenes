@@ -97,5 +97,5 @@ Si deseas ejecutar este proyecto en tu propio entorno de desarrollo, sigue estos
     npm run dev
     ```
 
-> [!NOTE]
+> [!IMPORTANT]
 > La aplicación estará disponible en: [http://localhost:3000](http://localhost:3000)
