@@ -96,13 +96,5 @@ Si deseas ejecutar este proyecto en tu propio entorno de desarrollo, sigue estos
     ```bash
     npm run dev
     ```
-
-<br />
-<br />
-<br />
-
-> [!NOTE]
-> La aplicación estará disponible en [http://localhost:3000](http://localhost:3000)
-
-
-
+> [!IMPORTANT]
+> La aplicación estará disponible en: [http://localhost:3000](http://localhost:3000)
