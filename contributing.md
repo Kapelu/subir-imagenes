@@ -62,9 +62,10 @@
 
 > [!TIPS]
 > Para obtener el estado actual de tu proyecto utilza:
-> ```bash
-> git status
-> ```
+
+        ```bash
+        git status
+        ```
 
 11. Despues puedes continuar con el comando:
     ```bash
