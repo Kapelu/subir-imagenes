@@ -1,7 +1,7 @@
 'use client'
 import '@/app/style/Header.css'
 import React, {useState, useEffect} from 'react'
-import menu from '@/app/json/headerMenu.json'
+import menu from '@/app/components/header.json'
 import Link from 'next/link'
 import Image from 'next/image'
 import K from '@/public/icon.png'
