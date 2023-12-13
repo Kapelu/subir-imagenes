@@ -58,7 +58,7 @@
             <td align="center">
             <a href="https://github.com/YaulPauly" target="_blank" rel="noopener"><img style='border-radius:50%;'src="https://avatars.githubusercontent.com/u/110009653?v=4" width="150px;" alt="Yaul Pauly"/>
             <br />
-            <sub><b>Yaul Pauly</b></sub>
+            <sub><b>Paul Yauly</b></sub>
             </a>
             <!-- <a href="https://portfolio-js-iota.vercel.app/" target="_blank" rel="noopener"">
             <br />
