@@ -60,11 +60,11 @@
     git add .
     ````
 
-10. Puedes utilzar el comando:
-    ```bash
-    git status
-    ````
-    para obtener el estado actual de tu proyecto.
+> [!TIPS]
+> Para obtener el estado actual de tu proyecto utilza:
+> ```bash
+> git status
+> ```
 
 11. Despues puedes continuar con el comando:
     ```bash
