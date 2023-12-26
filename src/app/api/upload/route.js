@@ -6,8 +6,8 @@ import {v2 as cloudinary} from 'cloudinary'
 
 cloudinary.config({
 	cloud_name: 'kapelu',
-	api_key: '566637683242475',
-	api_secret: 'fDTDRvPP_w4fj25MHWPyCT8Ef14',
+	api_key: 'xxxxxxxxxxxxxxxxxxxxx',
+	api_secret: 'xxxxxxxxxxxxxxxxxxxxx',
 })
 
 export async function POST(request) {
