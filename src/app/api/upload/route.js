@@ -41,5 +41,8 @@ export async function POST(request) {
         }).end(buffer)
     })
 
-	return NextResponse.json('Imágen Subida')
+	return NextResponse.json({
+        message: 'Imágen Subida',
+        url: Response.secure_url,
+    })
 }

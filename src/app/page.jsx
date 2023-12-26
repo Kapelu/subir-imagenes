@@ -1,8 +1,10 @@
 'use client'
+import Image from 'next/image'
 import {useState} from 'react'
 
 export default function Home() {
-    const [file, setFile]= useState(null)
+	const [file, setFile] = useState(null)
+	const [imageUrl, setImageUrl] = useState(null)
 	return (
 		<>
 			<h1>Subir Imágen</h1>
@@ -10,20 +12,20 @@ export default function Home() {
 				onSubmit={async (e) => {
 					e.preventDefault()
 
-                    const formData = new FormData()
-                    formData.append('image',file)
+					const formData = new FormData()
+					formData.append('image', file)
 					const response = await fetch('/api/upload', {
 						method: 'POST',
-                        body: formData,
-                        /* 
+						body: formData,
+						/* 
                         header: {
                             'contemt-Type': 'multipart/form-data' 
                         }
                         */
-
 					})
 					const data = await response.json()
 					console.log(data)
+					setImageUrl(data.url)
 				}}
 			>
 				<input
@@ -34,6 +36,7 @@ export default function Home() {
 				/>
 				<button>Enviar</button>
 			</form>
+			{imageUrl && (<Image src={imageUrl} alt=''></Image>)}
 		</>
 	)
 }
